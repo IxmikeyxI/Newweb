@@ -1,0 +1,149 @@
+h1 {
+  line-height: 2;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  padding-bottom: 10px;
+  font-weight: bold;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-weight: bolder;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  color: #40514e;
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+a{
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p{
+  line-height: 2;
+  font-weight: bold;
+}
+
+hr{
+  margin: 100px auto;
+  border: dotted lightgrey 10px;
+  border-bottom: none;
+  width: 4%;
+  clear: both;
+}
+
+.contact{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.description{
+  width: 30%;
+  margin: auto;
+  clear: both;
+
+}
+
+.first-skill{
+  margin-right: 30px;
+  float: left;
+  width: 25%;
+}
+
+.second-skill{
+  margin-left: 30px;
+  float: right;
+  width: 25%;
+}
+.skill-row {
+text-align: left;
+line-height: 2;
+width: 50%;
+margin: 100px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+}
+
+.Begginer {
+  font-weight: normal;
+  font-size: 2.5rem;
+  text-decoration: underline;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-container {
+  background-color: #EAf9f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  position: relative;
+  background: #66BFBF;
+  margin-top: 100px;
+  padding: 50px 0 20px;
+}
+
+.trademark{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.button-contact {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Montserrat;
+   font-size: 20px;
+   font-weight: 500;
+   padding: 20px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button-contact:hover {
+   background: #EAF6F6;
+   border: solid #66BFBF 3px;
+   -webkit-border-radius: 17px;
+   -moz-border-radius: 17px;
+   border-radius: 17px;
+   text-decoration: none;
+}
